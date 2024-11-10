@@ -44,6 +44,10 @@ The visual design of this portfolio reflects my personal taste. The layout is cl
 - A professional, **clear typography** has been used throughout, with distinct font choices for headings (e.g., `h1`, `h2`) and body text, ensuring readability.
 
 
+### Public Link to Page
+
+[View html Project](https://lilalanda.github.io/cv.html)
+
 ### Link to Figma Project
 
 [View the Figma Project](https://www.figma.com/design/Uwu9yMvNSEGdLHQRNyt1ab/Untitled?node-id=0-1&t=N84FlnDQCccdInV4-1)
